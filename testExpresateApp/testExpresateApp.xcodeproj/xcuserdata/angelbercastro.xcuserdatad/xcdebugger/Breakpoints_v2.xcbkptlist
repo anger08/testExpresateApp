@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84719ADB-EB75-4843-A318-E3026E1855E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "787F0C16-DAFC-4DFF-950A-5DCA3D2544FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testExpresateApp/Core/Data/Repository/WeatherRepositoryImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getWeather(queryBody:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "787F0C16-DAFC-4DFF-950A-5DCA3D2544FB - 7c49210964a607b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testExpresateApp.WeatherRepositoryImpl.getWeather() -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;testExpresateApp.Weather&gt;, Swift.Never&gt;"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Core/Data/Repository/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "787F0C16-DAFC-4DFF-950A-5DCA3D2544FB - b0c0bbf75f8346b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testExpresateApp.WeatherRepositoryImpl.getWeather() -&gt; Combine.AnyPublisher&lt;testExpresateApp.Weather, Swift.Never&gt;"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Core/Data/Repository/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "787F0C16-DAFC-4DFF-950A-5DCA3D2544FB - b6e0fbd108d93421"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testExpresateApp.WeatherRepositoryImpl.getWeather(queryBody: testExpresateApp.SearchBody) -&gt; Combine.AnyPublisher&lt;testExpresateApp.Weather, Swift.Never&gt;"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Core/Data/Repository/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0F8F219-5640-4404-9FE8-B5F5A7EAA086"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testExpresateApp/Core/Domain/UseCases/GetWeatherUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "invoke(queryBody:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0F8F219-5640-4404-9FE8-B5F5A7EAA086 - 56577c0f9988079e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testExpresateApp.GetWeatherUseCase.invoke() -&gt; Combine.AnyPublisher&lt;Swift.Optional&lt;testExpresateApp.Weather&gt;, Swift.Never&gt;"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Core/Domain/UseCases/GetWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A0F8F219-5640-4404-9FE8-B5F5A7EAA086 - 7a76dd2ad73a2711"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testExpresateApp.GetWeatherUseCase.invoke() -&gt; Combine.AnyPublisher&lt;testExpresateApp.Weather, Swift.Never&gt;"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Core/Domain/UseCases/GetWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A0F8F219-5640-4404-9FE8-B5F5A7EAA086 - 23a6b786bfa57ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testExpresateApp.GetWeatherUseCase.invoke(queryBody: testExpresateApp.SearchBody) -&gt; Combine.AnyPublisher&lt;testExpresateApp.Weather, Swift.Never&gt;"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Core/Domain/UseCases/GetWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E36593F-A97E-4469-9BCB-CB884E6493A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testExpresateApp/Feature/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E36593F-A97E-4469-9BCB-CB884E6493A3 - f4196aa53050f341"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testExpresateApp.WeatherViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Feature/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2E36593F-A97E-4469-9BCB-CB884E6493A3 - f4196aa53050f341"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in testExpresateApp.WeatherViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "testExpresateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelbercastro/Desktop/testExpresateApp/testExpresateApp/Feature/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
